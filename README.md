@@ -1,5 +1,10 @@
 ### Welcome to my journey with web and game development!
 
+Currently Learning :
+HTML/CSS
+JavaScript
+
+
 <!--
 **SebbyVonBlack/SebbyVonBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
